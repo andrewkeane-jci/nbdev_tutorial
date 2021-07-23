@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: andrewmodulechi
+      title: andrewmodule
       url: core.html
     output: web
     title: nbdev_start
